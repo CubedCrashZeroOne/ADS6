@@ -1,0 +1,5 @@
+﻿  Z-21, АСД6.cpp
+C:\Users\crash\source\repos\Project2\Z-21, АСД6.cpp(166): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crash\source\repos\Project2\Z-21, АСД6.cpp(203): warning C4101: to_replace: неиспользованная локальная переменная
+C:\Users\crash\source\repos\Project2\Z-21, АСД6.cpp(203): warning C4101: to_delete: неиспользованная локальная переменная
+  Project2.vcxproj -> C:\Users\crash\source\repos\Project2\Debug\ADS 6.exe
